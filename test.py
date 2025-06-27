@@ -217,3 +217,8 @@ while game:
             enemies.add(Enemy(IMG_ENEMY, random.randint(5, 715), -50, 80, 50, random.randint(1, 3)))
 
     clock.tick(FPS)
+    ádasd
+    áda
+    sda
+    sda
+    sd
